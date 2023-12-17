@@ -17,3 +17,54 @@
 .dashboard-container .dashboard-inner-container[data-v-7d42f9fa] {
   padding: 30px !important;
 }
+
+#sidebar[data-v-2a92c9f9] {
+  min-width: 72px !important;
+  width: 72px !important;
+}
+
+#media-library
+  .media-library-container
+  .media-library-content-container[data-v-3cde0ce7] {
+  max-width: 100000px !important;
+}
+
+.media-library-toolbar[data-v-2732a616] {
+  max-width: 100000px !important;
+}
+
+.media-element .media-element-main[data-v-22222718] {
+  min-height: 38px !important;
+  height: 38px !important;
+}
+
+.media-element
+  .media-element-main
+  .media-content
+  .media-element-info[data-v-22222718] {
+  flex-direction: row !important;
+  padding: 0 20px 0 0 !important;
+  align-items: center !important;
+}
+
+.media-element
+  .media-element-main
+  .media-content
+  .media-element-info
+  .media-top[data-v-22222718] {
+  justify-content: space-between !important;
+  width: 100% !important;
+  margin-right: 10px !important;
+  max-width: 86% !important;
+}
+
+.media-element .media-element-main .media-cover[data-v-22222718] {
+  display: none !important;
+}
+
+.media-element
+  .media-element-main
+  .media-content
+  .media-actions[data-v-22222718] {
+  margin-bottom: 0 !important;
+}
