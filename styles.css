@@ -7,3 +7,13 @@
   .media-library-top-container.show-ad[data-v-3cde0ce7] {
   top: 0 !important;
 }
+
+.dashboard-container
+  .dashboard-inner-container
+  .content-player-container[data-v-7d42f9fa] {
+  display: none !important;
+}
+
+.dashboard-container .dashboard-inner-container[data-v-7d42f9fa] {
+  padding: 30px !important;
+}
