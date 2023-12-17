@@ -1,0 +1,9 @@
+.card-container {
+  display: none;
+}
+
+#media-library
+  .media-library-container
+  .media-library-top-container.show-ad[data-v-3cde0ce7] {
+  top: 0;
+}
