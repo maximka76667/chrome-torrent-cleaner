@@ -58,7 +58,7 @@ body {
   .media-content
   .media-element-info
   .media-top[data-v-22222718] {
-  justify-content: space-between !important;
+  justify-content: flex-start !important;
   width: 100% !important;
   margin-right: 10px !important;
   max-width: 86% !important;
